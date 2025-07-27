@@ -1,1 +1,2 @@
-MERN STACK BLOG APP
+MERN STACK BLOG APP 
+*Not Responsive 
